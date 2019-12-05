@@ -51,6 +51,8 @@ npm run start
 
 Open http://localhost:8080 to see the website
 
+You need to open the console to see the dialog! Sorry, I haven't fully figured out onClick yet!
+
 
 ## Built With
 
